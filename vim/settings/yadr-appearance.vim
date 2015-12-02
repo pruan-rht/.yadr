@@ -29,6 +29,7 @@ else
   end
 endif
 
+"colorscheme lucario
 colorscheme peter
 " colorscheme solarized
 set background=dark
