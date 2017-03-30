@@ -13,10 +13,12 @@ if has("gui_running")
   set columns=150
 
   if has("gui_gtk2")
-    set guifont=Ubuntu\ Mono:h14
+    set guifont=Hack:h12
+    "set guifont=Ubuntu\ Mono:h14
     "set guifont=Inconsolata\ XL\ 11,Inconsolata\ 11,Monaco\ 11
   else
-    set guifont=Ubuntu\ Mono:h14
+    set guifont=Hack:h12
+    "set guifont=Ubuntu\ Mono:h14
     "set guifont=Inconsolata\ XL:h11,Inconsolata:h11,Monaco:h11
   end
 else
